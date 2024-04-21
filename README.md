@@ -1,6 +1,6 @@
-# React + Vite
+# A React + Vite + Husky + Antd Javascript Boilerplate
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint and Prettier rules.
 
 Currently, two official plugins are available:
 
